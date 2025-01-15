@@ -4,13 +4,9 @@ const Page = () => {
     return (
         <div>
             <h2 className="text-[48px] md:text-[64px] font-bold text-[#FFFFFF] text-center">About</h2>
-            <div className="flex flex-col gap-4">
-
-            
+            <div className="flex flex-col gap-4">  
             <p className="text-base md:text-xl font-normal text-[#EFF1C5] leading-10 tracking-widest">
-
             <span className="text-white font-bold ">I’m</span> a web developer passionate about crafting seamless, user-centric digital experiences using modern JavaScript frameworks. I thrive at the intersection of design and development, creating robust, responsive interfaces that deliver exceptional performance.
-
                 <br />Previously, I worked as a Full-Stack JavaScript Developer at <span className="text-white font-bold">3A Marketing Agency</span>, where I developed and deployed scalable web solutions using Next.js, Node.js, Express, and MongoDB.
             </p>
             {/* <div>

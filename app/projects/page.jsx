@@ -7,7 +7,7 @@ const Page = () => {
     const projects = [
         {
             id: '1',
-            img: '/misterButton/1.png',
+            img: '/misterButton.png',
         },
         {
             id: '2',
@@ -25,7 +25,7 @@ const Page = () => {
             <h2 className="text-[48px] md:text-[64px] font-bold text-[#FFFFFF] text-center">Projects Showcase</h2>
             <ProjectContainer projects={projects} />
         </div>
-        
+
     )
 }
 
