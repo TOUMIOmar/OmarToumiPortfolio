@@ -25,11 +25,12 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/TOUMIOmar/OmarToumiPortfolio
    ```
 2. Navigate to the project directory:
    ```bash
-   cd portfolio
+   cd OmarToumiPortfolio
+
    ```
 3. Install dependencies:
    ```bash
@@ -45,17 +46,13 @@ To run the project locally:
 
 Feel free to clone and modify the project. If you want to contribute, you can fork the repository and create a pull request with your changes.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Contact
 
 If you have any questions or feedback, feel free to reach out to me:
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Email**: omartoumi158@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/toumiomar/
+- **GitHub**: https://github.com/TOUMIOmar?tab=repositories
 
 Thank you for checking out my portfolio website!
 
