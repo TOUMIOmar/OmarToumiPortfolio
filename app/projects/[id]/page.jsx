@@ -5,7 +5,7 @@ const Page = ({ params: { id } }) => {
     const projects = [
         {
             id: '1',
-            img: '/misterButton/1.png',
+            img: '/misterbutton.png',
             title: 'Mister Bouton E-commerce Website',
             description: 'Mister Bouton is a boutique automobile e-commerce platform designed to offer an immersive and seamless online shopping experience. The website is built using Next.js for the frontend, ensuring fast performance and dynamic content rendering, and Node.js, Express, and MongoDB for the backend, providing robust server-side functionality and data management.',
             link: 'https://www.misterbouton.com/',
@@ -22,7 +22,7 @@ const Page = ({ params: { id } }) => {
         },
         {
             id: '2',
-            img: '/hsa/1.png',
+            img: '/hsa.png',
             title: 'Horizon Study Abroad',
             description: 'In this project, I converted a Figma design of over 16 pages into a fully responsive website using Next.js and Tailwind CSS. I utilized Strapi as a headless CMS for API creation and built an admin dashboard. I ensured smooth integration between the frontend and API, delivering a seamless user experience.',
             link: 'https://hsa-last.vercel.app/',
@@ -32,7 +32,7 @@ const Page = ({ params: { id } }) => {
         },
         {
             id: '3',
-            img: '/borderEdge/5.png',
+            img: '/borderEdge.png',
             title: 'BorderEdge UI Design to Code Conversion',
             description: 'In this project, I was responsible for converting Figma designs into clean, responsive HTML, CSS, and JavaScript code to create a demo for the BorderEdge project. The company needed this demo to effectively present their ideas and showcase the potential of their services. This foundational work involved ensuring that the designs were accurately translated into a functional user interface, providing a solid prototype for future development and presentation across different frameworks and libraries as the company advances its services.',
             link: 'https://border-age.vercel.app',

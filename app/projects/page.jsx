@@ -11,11 +11,11 @@ const Page = () => {
         },
         {
             id: '2',
-            img: '/hsa/1.png',
+            img: '/hsa.png',
         },
         {
             id: '3',
-            img: '/borderEdge/5.png',
+            img: '/borderEdge.png',
         }
     ]
 
