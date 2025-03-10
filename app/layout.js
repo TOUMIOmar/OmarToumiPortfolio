@@ -9,7 +9,7 @@ const getOrbitron = Orbitron({
 export const metadata = {
   title: "Web Developer | Next.js, React, Node.js | Omar Toumi",
   description: "Experienced Web Developer specializing in Next.js, React, and the MERN stack. Explore my portfolio to see my latest projects and expertise in full-stack development.",
-  keywords: "Web Developer, Next.js, React, JavaScript, Node.js, Express, MongoDB, Full-Stack Developer, Portfolio, MERN Stack",
+  keywords: "Web Developer, Next.js, React,omar toumi,Developer tunisia, JavaScript, Node.js, Express, MongoDB, Full-Stack Developer, Portfolio, MERN Stack",
   authors: [{ name: "Omar Toumi" }],
   creator: "Omar Toumi",
   robots: "index, follow",
