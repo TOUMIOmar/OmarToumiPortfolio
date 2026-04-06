@@ -21,7 +21,7 @@ const Page = () => {
             </p>
             
 </div>
-            <Image src={"/omar-toumi-photo.png"} width={400} height={400} alt="omar-toumi-photo" className="opacity-30 w-[90%] md:w-[400px] absolute bottom-20 md:bottom-8 md:left-[35%] 2xl:left-[40%]" />
+            <Image priority={true} src={"/omar-toumi-photo.webp"} width={400} height={400} alt="omar-toumi-photo" className="opacity-30 w-[90%] md:w-[400px] absolute bottom-20 md:bottom-8 md:left-[35%] 2xl:left-[40%]" />
         </div>
     )
 }

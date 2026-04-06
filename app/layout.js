@@ -44,7 +44,7 @@ export default function RootLayout({ children }) {
       <body
         className={`${getOrbitron.className} } antialiased bg-black`}
       >
-        <div className="bg-[url('/bg.png')] bg-no-repeat bg-cover w-[95%] md:w-[95vw] mx-auto rounded-3xl h-[96vh] mt-[2vh] md:h-[92vh] md:mt-[3vh]  relative">
+        <div className="bg-[url('/bg.webp')] bg-no-repeat bg-cover w-[95%] md:w-[95vw] mx-auto rounded-3xl h-[96vh] mt-[2vh] md:h-[92vh] md:mt-[3vh]  relative">
           {/* longitude latitude */}
           <div className="absolute flex flex-col text-sm top-7 left-4">
             <div className="flex ">
