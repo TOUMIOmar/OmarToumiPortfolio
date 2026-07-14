@@ -16,11 +16,10 @@ export const sendContactEmail = async (email, name, phone, message) => {
     throw new Error("Missing recipient email or name for confirmation email.");
   }
 
-
   const mailOptions = {
     from: process.env.EMAIL_FROM,
     to: process.env.CONTACT_RECEIVER,
-    subject: "📩 New Contact Form Submission",
+    subject: "📩 New Contact Form Submission from my portfolio website",
     html: `
       <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
       <p><strong>Name:</strong> ${name}</p>
@@ -41,9 +40,7 @@ export const sendContactEmail = async (email, name, phone, message) => {
       );
       throw new Error(`Email sending failed for ${email}: ${error.message}`);
     }
-    console.error(
-      `An unknown error occurred while sending email to ${email}`,
-    );
+    console.error(`An unknown error occurred while sending email to ${email}`);
     throw new Error(`Email sending failed for ${email}: Unknown error`);
   }
 };
